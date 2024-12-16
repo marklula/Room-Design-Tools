@@ -12,3 +12,7 @@ Exclusion zones provide a way to prevent the automated Speaker Tracking function
 [Video Composition Designer](https://marklula.github.io/Video-Composition-Designer/)
 
 This tool provides a visual way to generate a video matrix command for a user defined input group for Cisco Devices that can then be used for Macros.
+
+[Configuration Compare Tool](https://marklula.github.io/Configuration-Compare-Tool/)
+
+This tool provides a simple way to compare Room OS configuration files and display any differences.
